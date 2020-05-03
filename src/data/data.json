@@ -1,0 +1,1281 @@
+[
+  {
+    "name": "Common Butterfly",
+    "monthsAvailable": "September to June",
+    "timesAvailable": "4am to 7pm ",
+    "location": "Flying around",
+    "price": "160",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/8/89/Common_Butterfly_ACNH.png"
+  },
+  {
+    "name": "Yellow Butterfly",
+    "monthsAvailable": "March to JuneSeptember to October",
+    "timesAvailable": "4am to 7pm",
+    "location": "Flying around",
+    "price": "160",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/0/0b/Yellow_Butterfly_ACNH.png"
+  },
+  {
+    "name": "Tiger Butterfly",
+    "monthsAvailable": "March to September",
+    "timesAvailable": "4am to 7pm",
+    "location": "Flying around",
+    "price": "240",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/2/29/Tiger_Butterfly_ACNH.png"
+  },
+  {
+    "name": "Peacock Butterfly",
+    "monthsAvailable": "March to June",
+    "timesAvailable": "4am to 7pm",
+    "location": "Flying around flowers",
+    "price": "2500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/2/2e/Peacock_Butterfly_ACNH.png"
+  },
+  {
+    "name": "Common Bluebottle",
+    "monthsAvailable": "April to August",
+    "timesAvailable": "8am to 4pm ",
+    "location": "Flying around",
+    "price": "300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/1/10/Common_Bluebottle_ACNH.png"
+  },
+  {
+    "name": "Paper Kite Butterfly",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "8am to 7pm",
+    "location": "Flying around",
+    "price": "1000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e5/Paper_Kite_Butterfly_ACNH.png"
+  },
+  {
+    "name": "Great Purple Emperor",
+    "monthsAvailable": "May to August",
+    "timesAvailable": "4am to 7pm",
+    "location": "Flying around",
+    "price": "3000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e7/Great_Purple_Emperor_ACNH.png"
+  },
+  {
+    "name": "Monarch Butterfly",
+    "monthsAvailable": "September to November",
+    "timesAvailable": "4am to 5pm",
+    "location": "Flying around",
+    "price": "140",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/77/Monarch_Butterfly_ACNH.png"
+  },
+  {
+    "name": "Emperor Butterfly",
+    "monthsAvailable": "December to MarchJune to September",
+    "timesAvailable": "5pm to 8am",
+    "location": "Flying around flowers",
+    "price": "4000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/73/Emperor_Butterfly_ACNH.png"
+  },
+  {
+    "name": "Agrias Butterfly",
+    "monthsAvailable": "April to September",
+    "timesAvailable": "8am to 5pm",
+    "location": "Flying around",
+    "price": "3000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/2/22/Agrias_Butterfly_ACNH.png"
+  },
+  {
+    "name": "Rajah Brooke's Birdwing",
+    "monthsAvailable": "April to SeptemberDecember to February",
+    "timesAvailable": "8am to 5pm",
+    "location": "Flying around",
+    "price": "2500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/1/10/Raja_Brooke_ACNH.png"
+  },
+  {
+    "name": "Queen Alexandra's Birdwing",
+    "monthsAvailable": "May to September",
+    "timesAvailable": "8am to 4pm",
+    "location": "Flying around",
+    "price": "4000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/8/83/Birdwing_ACNH.png"
+  },
+  {
+    "name": "Moth",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "7pm to 4am",
+    "location": "Flying around a lightsource",
+    "price": "130",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/69/Moth_ACNH.png"
+  },
+  {
+    "name": "Atlas Moth",
+    "monthsAvailable": "April to September",
+    "timesAvailable": "7pm to 4am",
+    "location": "On trees",
+    "price": "3000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/56/Atlas_Moth.png"
+  },
+  {
+    "name": "Madagascan-Sunset Moth",
+    "monthsAvailable": "April to September",
+    "timesAvailable": "8am to 4pm",
+    "location": "Flying around flowers",
+    "price": "2500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e3/Madagascan_Sunset_Moth_ACNH.png"
+  },
+  {
+    "name": "Long Locust",
+    "monthsAvailable": "April to November",
+    "timesAvailable": "8am to 7pm",
+    "location": "On the ground",
+    "price": "200",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/4a/Long_Locust_ACNH.png"
+  },
+  {
+    "name": "Migratory Locust",
+    "monthsAvailable": "August to November ",
+    "timesAvailable": "8am to 7pm",
+    "location": "On the ground",
+    "price": "600",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/70/Migratory_Locust_ACNH.png"
+  },
+  {
+    "name": "Rice Grasshopper",
+    "monthsAvailable": "August to November ",
+    "timesAvailable": "8am to 7pm",
+    "location": "On the ground",
+    "price": "400",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/aa/Rice_Grasshopper_ACNH.png"
+  },
+  {
+    "name": "Grasshopper",
+    "monthsAvailable": "July to September",
+    "timesAvailable": "8am to 5pm",
+    "location": "On the ground",
+    "price": "160",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e7/Grasshopper_ACNH.png"
+  },
+  {
+    "name": "Cricket",
+    "monthsAvailable": "September to November",
+    "timesAvailable": "5pm to 8am",
+    "location": "On the ground",
+    "price": "130",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/0/0f/Cricket_ACNH.png"
+  },
+  {
+    "name": "Bell Cricket",
+    "monthsAvailable": "September to October",
+    "timesAvailable": "5pm to 8am",
+    "location": "On the ground ",
+    "price": "430",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/f/fa/Bell_Cricket_ACNH.png"
+  },
+  {
+    "name": "Mantis",
+    "monthsAvailable": "March to November",
+    "timesAvailable": "8am to 5pm",
+    "location": "On flowers",
+    "price": "430",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/66/Mantis_ACNH.png"
+  },
+  {
+    "name": "Orchid Mantis",
+    "monthsAvailable": "March to November",
+    "timesAvailable": "8am to 5pm ",
+    "location": "On flowers",
+    "price": "2400",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/a2/Orchid_Mantis_ACNH.png"
+  },
+  {
+    "name": "Honeybee",
+    "monthsAvailable": "March to July",
+    "timesAvailable": "8am to 5pm",
+    "location": "Flying around flowers",
+    "price": "200",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/36/Honeybee_ACNH.png"
+  },
+  {
+    "name": "Wasp",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "All day",
+    "location": "Shake trees till a wasp nest falls, then catch them before they sting you",
+    "price": "2500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/68/Wasp_ACNH.png"
+  },
+  {
+    "name": "Brown Cicada",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "8am to 5pm",
+    "location": "On trees",
+    "price": "250",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/7f/Brown_Cicada_ACNH.png"
+  },
+  {
+    "name": "Robust Cicada",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "8am to 5pm",
+    "location": "On trees",
+    "price": "300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/31/Robust_Cicada_ACNH.png"
+  },
+  {
+    "name": "Giant Cicada",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "8am to 5pm",
+    "location": "On trees",
+    "price": "500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/67/Giant_Cicada_ACNH.png"
+  },
+  {
+    "name": "Walker Cicada",
+    "monthsAvailable": "August to September",
+    "timesAvailable": "8am to 5pm",
+    "location": "On trees",
+    "price": "400",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/63/Walker_Cicada_ACNH.png"
+  },
+  {
+    "name": "Evening Cicada",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "4am to 8am4pm to 7pm",
+    "location": "On trees",
+    "price": "550",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/f/fd/Evening_Cicada_ACNH.png"
+  },
+  {
+    "name": "Cicada Shell",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "All day",
+    "location": "On trees",
+    "price": "10",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/ea/Cicada_Shell_ACNH.png"
+  },
+  {
+    "name": "Red Dragonfly",
+    "monthsAvailable": "September to October",
+    "timesAvailable": "8am to 7pm",
+    "location": "Flying around",
+    "price": "180",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/50/Red_Dragonfly_ACNH.png"
+  },
+  {
+    "name": "Darner Dragonfly",
+    "monthsAvailable": "April to October",
+    "timesAvailable": "8am to 5pm",
+    "location": "Flying around",
+    "price": "230",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/ae/Darner_Dragonfly_ACNH.png"
+  },
+  {
+    "name": "Banded Dragonfly",
+    "monthsAvailable": "May to October",
+    "timesAvailable": "8am to 5pm",
+    "location": "Flying around",
+    "price": "4500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/8/88/Banded_Dragonfly_ACNH.png"
+  },
+  {
+    "name": "Damselfly",
+    "monthsAvailable": "November to February ",
+    "timesAvailable": "All day",
+    "location": "Flying around",
+    "price": "500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/b/b6/Damselfly_ACNH.png"
+  },
+  {
+    "name": "Firefly",
+    "monthsAvailable": "June",
+    "timesAvailable": "7pm to 4am",
+    "location": "Flying around",
+    "price": "300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/d7/Firefly.png"
+  },
+  {
+    "name": "Mole Cricket",
+    "monthsAvailable": "November to January",
+    "timesAvailable": "All day",
+    "location": "Listen for its buzzing noise, then dig holes until one appears",
+    "price": "500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/0/0a/Mole_Cricket_ACNH.png"
+  },
+  {
+    "name": "Pondskater",
+    "monthsAvailable": "May to September",
+    "timesAvailable": "8am to 7pm",
+    "location": "On ponds and rivers",
+    "price": "130",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/1/19/Pondskater_ACNH.png"
+  },
+  {
+    "name": "Diving Bettle",
+    "monthsAvailable": "May to September",
+    "timesAvailable": "8am to 7pm",
+    "location": "On ponds and rivers",
+    "price": "800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/f/f2/Diving_Beetle_ACNH.png"
+  },
+  {
+    "name": "Giant Water Bug",
+    "monthsAvailable": "April to September ",
+    "timesAvailable": "7pm to 8am ",
+    "location": "On a pond",
+    "price": "2000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/2/26/Giant_Water_Bug_ACNH.png"
+  },
+  {
+    "name": "Stinkbug",
+    "monthsAvailable": "March to October",
+    "timesAvailable": "All day",
+    "location": "On flowers",
+    "price": "120",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/1/1a/Stink_Bug_ACNH.png"
+  },
+  {
+    "name": "Man-faced Stink Bug",
+    "monthsAvailable": "March to October",
+    "timesAvailable": "7pm to 8am",
+    "location": "On flowers",
+    "price": "1000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/db/Man_faced_Stink_Bug_ACNH.png"
+  },
+  {
+    "name": "Ladybug",
+    "monthsAvailable": "March to JuneOctober",
+    "timesAvailable": "8am to 5pm",
+    "location": "On flowers",
+    "price": "200",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/f/f4/Ladybug_ACNH.png"
+  },
+  {
+    "name": "Tiger Bettle",
+    "monthsAvailable": "February to October",
+    "timesAvailable": "All day",
+    "location": "On the ground",
+    "price": "1500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/b/b9/Tiger_Beetle.png"
+  },
+  {
+    "name": "Jewel Beetle",
+    "monthsAvailable": "April to August ",
+    "timesAvailable": "All day",
+    "location": "Appears on tree stumps",
+    "price": "2400",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/40/Jewel_Beetle.png"
+  },
+  {
+    "name": "Violin Beetle",
+    "monthsAvailable": "May to JuneSeptember to November",
+    "timesAvailable": "All day",
+    "location": "Appears on tree stumps",
+    "price": "450",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/62/Violin_Beetle_ACNH.png"
+  },
+  {
+    "name": "Citrus Long-horned Beetle",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "All day",
+    "location": "Appears on a tree stump",
+    "price": "350",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/0/0f/Citrus_Long_Horned_Beetle.png"
+  },
+  {
+    "name": "Rosalia Batesi Beetle",
+    "monthsAvailable": "May to September",
+    "timesAvailable": "All day",
+    "location": "Appears on a tree stump",
+    "price": "3000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/54/Rosalia_Batesi_Beetle_ACNH.png"
+  },
+  {
+    "name": "Blue Weevil Beetle",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "All day",
+    "location": "Appears on a tree stump",
+    "price": "800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e9/Blue_Weevil_Beetle_ACNH.png"
+  },
+  {
+    "name": "Dung Beetle",
+    "monthsAvailable": "December to February",
+    "timesAvailable": "All day",
+    "location": "On the ground rolling snowballs",
+    "price": "3000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/b/b4/Dung_Beetle.png"
+  },
+  {
+    "name": "Earth-boring Dung Beetle",
+    "monthsAvailable": "July to September",
+    "timesAvailable": "All day",
+    "location": "On the ground",
+    "price": "300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/2/26/Earth_Boring_Dung_Beetle.png"
+  },
+  {
+    "name": "Scarab Beetle",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "11pm to 8am",
+    "location": "On trees",
+    "price": "10000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/50/Scarab_Beetle.png"
+  },
+  {
+    "name": "Drone Beetle",
+    "monthsAvailable": "June to August",
+    "timesAvailable": "All day",
+    "location": "On trees",
+    "price": "200",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/2/28/Drone_Beetle_ACNH.png"
+  },
+  {
+    "name": "Goliath Beetle",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "5pm to 8am",
+    "location": "On trees",
+    "price": "8000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/c/c4/Goliath_Beetle_ACNH.png"
+  },
+  {
+    "name": "Saw Stag",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "All day",
+    "location": "On trees",
+    "price": "2000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/39/Saw_Stag_ACNH.png"
+  },
+  {
+    "name": "Miyama Stag",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "All day",
+    "location": "On trees",
+    "price": "1000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/8/83/Miyama_Stag_ACNH.png"
+  },
+  {
+    "name": "Giant Stag",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "11pm to 8am",
+    "location": "On trees",
+    "price": "10000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/a9/Giant_Stag_ACNH.png"
+  },
+  {
+    "name": "Rainbow Stag",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "7pm to 8am",
+    "location": "On trees",
+    "price": "6000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/8/88/Rainbow_Stag_ACNH.png"
+  },
+  {
+    "name": "Cyclommatus Stag",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "5pm to 8am",
+    "location": "On coconut trees",
+    "price": "8000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/2/2a/Cyclommatus_ACNH.png"
+  },
+  {
+    "name": "Golden Stag",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "5pm to 8am",
+    "location": "On coconut trees",
+    "price": "12000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/a3/Golden_Stag_ACNH.png"
+  },
+  {
+    "name": "Giraffe Stag",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "5pm to 8am",
+    "location": "On trees",
+    "price": "12000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/c/c5/Giraffe_Stag_ACNH.png"
+  },
+  {
+    "name": "Horned Dynastid",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "5pm to 8am",
+    "location": "On trees",
+    "price": "1350",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/67/Horned_Dynastid_ACNH.png"
+  },
+  {
+    "name": "Horned Atlas",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "5pm to 8am",
+    "location": "On coconut trees",
+    "price": "8000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/d9/Horned_Atlas_ACNH.png"
+  },
+  {
+    "name": "Horned Elephant",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "5pm to 8am",
+    "location": "On coconut trees",
+    "price": "8000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/0/0b/Horned_Elephant_ACNH.png"
+  },
+  {
+    "name": "Horned Hercules",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "5pm to 8am ",
+    "location": "On coconut trees",
+    "price": "12000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/dd/Horned_Hercules_ACNH.png"
+  },
+  {
+    "name": "Walking Stick",
+    "monthsAvailable": "July to November",
+    "timesAvailable": "4am to 8am5pm to 7pm",
+    "location": "On trees",
+    "price": "600",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/f/f4/Walkingstick_ACNH.png"
+  },
+  {
+    "name": "Walking Leaf",
+    "monthsAvailable": "July to September",
+    "timesAvailable": "All day",
+    "location": "Under trees disguised as leaves",
+    "price": "600",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/0/06/Walking_Leaf_ACNH.png"
+  },
+  {
+    "name": "Bagworm",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "All day",
+    "location": "Shake trees until one hangs down",
+    "price": "600",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/38/Bagworm_ACNH.png"
+  },
+  {
+    "name": "Ant",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "All day",
+    "location": "Will appear on spoiled turnips",
+    "price": "80",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/4f/Ant_ACNH.png"
+  },
+  {
+    "name": "Hermit Crab",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "7pm to 8am",
+    "location": "On the beach - looks like a shell ",
+    "price": "1000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/d3/Hermit_Crab_ACNH.png"
+  },
+  {
+    "name": "Wharf Roach",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "All day",
+    "location": "Appears on flat rocks near the sea",
+    "price": "200",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/76/Wharf_Roach_ACNH.png"
+  },
+  {
+    "name": "Fly",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "All day",
+    "location": "On trash left on the ground",
+    "price": "60",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e4/Fly_ACNH.png"
+  },
+  {
+    "name": "Mosquito",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "5pm to 4am",
+    "location": "Flying around ",
+    "price": "130",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/41/Mosquito_ACNH.png"
+  },
+  {
+    "name": "Flea",
+    "monthsAvailable": "April to November",
+    "timesAvailable": "All day",
+    "location": "On an infested villager",
+    "price": "70",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/35/Flea_ACNH.png"
+  },
+  {
+    "name": "Snail",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "All day",
+    "location": "Must be raining - on a rock ",
+    "price": "250",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/1/19/Snail_ACNH.png"
+  },
+  {
+    "name": "Pill Bug",
+    "monthsAvailable": "September to June",
+    "timesAvailable": "11pm to 4pm",
+    "location": "Hit a rock with a shovel until one appears",
+    "price": "250",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/34/Pill_Bug_ACNH.png"
+  },
+  {
+    "name": "Centipede",
+    "monthsAvailable": "September to June",
+    "timesAvailable": "4pm to 11pm",
+    "location": "Hit a rock with a shovel until one appears",
+    "price": "300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/ac/Centipede_ACNH.png"
+  },
+  {
+    "name": "Spider",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "7pm to 8am",
+    "location": "Shake trees until one hangs down",
+    "price": "600",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/8/84/Spider.png"
+  },
+  {
+    "name": "Tarantula",
+    "monthsAvailable": "November to April ",
+    "timesAvailable": "7pm to 4am",
+    "location": "On the ground",
+    "price": "8000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/f/f4/Tarantula.png"
+  },
+  {
+    "name": "Scorpion",
+    "monthsAvailable": "May to October",
+    "timesAvailable": "7pm to 4am",
+    "location": "On the ground",
+    "price": "8000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/ab/Scorpion.png"
+  },
+  {
+    "name": "Bitterling",
+    "monthsAvailable": "November to March",
+    "timesAvailable": "24 hours",
+    "location": "River",
+    "price": "900",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/9/9c/Bitterling_ACNH.png"
+  },
+  {
+    "name": "Pale Chub",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "9am to 4pm",
+    "location": "River",
+    "price": "200",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/61/Pale_Chub_ACNH.png"
+  },
+  {
+    "name": "Crucian Carp",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "24 hours",
+    "location": "River",
+    "price": "160",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/75/Crucian_Carp_ACNH.png"
+  },
+  {
+    "name": "Dace",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "4pm to 9am",
+    "location": "River",
+    "price": "240",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/d6/Dace_ACNH.png"
+  },
+  {
+    "name": "Carp",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "24 hours",
+    "location": "Pond",
+    "price": "300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/d0/Carp_ACNH.png"
+  },
+  {
+    "name": "Koi",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "4pm to 9am",
+    "location": "Pond",
+    "price": "4000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/d6/Koi_ACNH.png"
+  },
+  {
+    "name": "Goldfish",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "24 hours",
+    "location": "Pond",
+    "price": "1300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/3a/Goldfish_ACNH.png"
+  },
+  {
+    "name": "Pop-eyed Goldfish",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "9am to 4pm",
+    "location": "Pond",
+    "price": "1300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/6f/Popeyed_Goldfish_ACNH.png"
+  },
+  {
+    "name": "Ranchu Goldfish",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "9am to 4pm",
+    "location": "Pond",
+    "price": "4500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/7a/Ranchu_Goldfish_ACNH.png"
+  },
+  {
+    "name": "Killifish",
+    "monthsAvailable": "April to August",
+    "timesAvailable": "24 hours",
+    "location": "Pond",
+    "price": "300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e4/Killifish_ACNH.png"
+  },
+  {
+    "name": "Crawfish",
+    "monthsAvailable": "April to September",
+    "timesAvailable": "24 hours",
+    "location": "Pond",
+    "price": "200",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/c/cb/Crawfish_ACNH.png"
+  },
+  {
+    "name": "Soft-shelled Turtle",
+    "monthsAvailable": "August to September",
+    "timesAvailable": "4pm to 9am",
+    "location": "River",
+    "price": "3750",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/8/8d/Soft_Shelled_Turtle_ACNH.png"
+  },
+  {
+    "name": "Snapping Turtle",
+    "monthsAvailable": "April to October",
+    "timesAvailable": "9pm to 4am",
+    "location": "River",
+    "price": "5000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/5f/Snapping_Turtle_ACNH.png"
+  },
+  {
+    "name": "Tadpole",
+    "monthsAvailable": "March to July",
+    "timesAvailable": "24 hours",
+    "location": "Pond",
+    "price": "100",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/b/b6/Tadpole_ACNH.png"
+  },
+  {
+    "name": "Frog",
+    "monthsAvailable": "May to August",
+    "timesAvailable": "24 hours",
+    "location": "Pond",
+    "price": "120",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/0/03/Frog_ACNH.png"
+  },
+  {
+    "name": "Freshwater Goby",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "4pm to 9am",
+    "location": "River",
+    "price": "400",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/43/Freshwater_Goby_ACNH.png"
+  },
+  {
+    "name": "Loach",
+    "monthsAvailable": "March to May",
+    "timesAvailable": "24 hours",
+    "location": "River",
+    "price": "400",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/a0/Loach_ACNH.png"
+  },
+  {
+    "name": "Catfish",
+    "monthsAvailable": "May to October",
+    "timesAvailable": "4pm to 9am",
+    "location": "Pond",
+    "price": "800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/9/9f/Catfish_ACNH.png"
+  },
+  {
+    "name": "Giant Snakehead",
+    "monthsAvailable": "June to August",
+    "timesAvailable": "9am to 4pm",
+    "location": "Pond",
+    "price": "5500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/f/f3/Giant_Snakehead_ACNH.png"
+  },
+  {
+    "name": "Bluegill",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "9am to 4pm",
+    "location": "River",
+    "price": "180",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/44/Bluegill_ACNH.png"
+  },
+  {
+    "name": "Yellow Perch",
+    "monthsAvailable": "October to March",
+    "timesAvailable": "24 hours",
+    "location": "River",
+    "price": "300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/9/9f/Yellow_Perch_ACNH.png"
+  },
+  {
+    "name": "Black Bass",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "24 hours",
+    "location": "River",
+    "price": "400",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/56/Black_Bass_ACNH.png"
+  },
+  {
+    "name": "Tilapia",
+    "monthsAvailable": "June to October",
+    "timesAvailable": "24 hours",
+    "location": "River",
+    "price": "800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/2/2f/Tilapia_ACNH.png"
+  },
+  {
+    "name": "Pike",
+    "monthsAvailable": "September to December",
+    "timesAvailable": "24 hours",
+    "location": "River",
+    "price": "1800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/c/ca/Pike_ACNH.png"
+  },
+  {
+    "name": "Pond Smelt",
+    "monthsAvailable": "December to February ",
+    "timesAvailable": "24 hours",
+    "location": "River",
+    "price": "400",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/5e/Pond_Smelt_ACNH.png"
+  },
+  {
+    "name": "Sweetfish",
+    "monthsAvailable": "July to September",
+    "timesAvailable": "24 hours",
+    "location": "River",
+    "price": "900",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/a2/Sweetfish_ACNH.png"
+  },
+  {
+    "name": "Cherry Salmon",
+    "monthsAvailable": "March to JuneSeptember to November",
+    "timesAvailable": "4pm to 9am",
+    "location": "Clifftop river",
+    "price": "800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/c/c5/Cherry_Salmon_ACNH.png"
+  },
+  {
+    "name": "Char",
+    "monthsAvailable": "March to JuneSeptember to November",
+    "timesAvailable": "4pm to 9am",
+    "location": "Clifftop river",
+    "price": "3800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/75/Char_ACNH.png"
+  },
+  {
+    "name": "Golden Trout",
+    "monthsAvailable": "March to MaySeptember to November",
+    "timesAvailable": "4pm to 9am",
+    "location": "Clifftop river",
+    "price": "15000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/9/97/Golden_Trout_ACNH.png"
+  },
+  {
+    "name": "Stringfish",
+    "monthsAvailable": "December to March",
+    "timesAvailable": "4pm to 9am",
+    "location": "Clifftop river",
+    "price": "15000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/a4/Stringfish_ACNH.png"
+  },
+  {
+    "name": "Salmon",
+    "monthsAvailable": "September",
+    "timesAvailable": "24 hours",
+    "location": "Rivermouth",
+    "price": "700",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/1/11/Salmon_ACNH.png"
+  },
+  {
+    "name": "King Salmon",
+    "monthsAvailable": "September",
+    "timesAvailable": "24 hours",
+    "location": "Rivermouth",
+    "price": "1800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/56/King_Salmon_ACNH.png"
+  },
+  {
+    "name": "Mitten Crab",
+    "monthsAvailable": "September to November",
+    "timesAvailable": "4pm to 9am",
+    "location": "River",
+    "price": "2000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/38/Mitten_Crab_ACNH.png"
+  },
+  {
+    "name": "Guppy",
+    "monthsAvailable": "April to November",
+    "timesAvailable": "9am to 4pm",
+    "location": "River",
+    "price": "1300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/d0/Guppy_ACNH.png"
+  },
+  {
+    "name": "Nibble Fish",
+    "monthsAvailable": "May to September",
+    "timesAvailable": "9am to 4pm",
+    "location": "River",
+    "price": "1500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/6b/Nibble_Fish_ACNH.png"
+  },
+  {
+    "name": "Angelfish",
+    "monthsAvailable": "May to November",
+    "timesAvailable": "4pm to 9am",
+    "location": "River",
+    "price": "3000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/b/b5/Angelfish_ACNH.png"
+  },
+  {
+    "name": "Betta",
+    "monthsAvailable": "May to November",
+    "timesAvailable": "9am to 4pm",
+    "location": "River",
+    "price": "2500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/d3/Betta_ACNH.png"
+  },
+  {
+    "name": "Neon Tetra",
+    "monthsAvailable": "April to November",
+    "timesAvailable": "9am to 4pm",
+    "location": "River",
+    "price": "500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/f/f7/Neon_Tetra_ACNH.png"
+  },
+  {
+    "name": "Rainbowfish",
+    "monthsAvailable": "May to November",
+    "timesAvailable": "9am to 4pm",
+    "location": "River",
+    "price": "800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/b/b5/Rainbowfish_ACNH.png"
+  },
+  {
+    "name": "Piranha",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "9am to 4pm9pm to 4am",
+    "location": "River",
+    "price": "2500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e5/Piranha_ACNH.png"
+  },
+  {
+    "name": "Arowana",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "4pm to 9am",
+    "location": "River",
+    "price": "10000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/7d/Arowana_ACNH.png"
+  },
+  {
+    "name": "Dorado",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "4am to 9pm",
+    "location": "River",
+    "price": "15000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/5e/Dorado_ACNH.png"
+  },
+  {
+    "name": "Gar",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "4pm to 9am",
+    "location": "Pond",
+    "price": "6000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/6a/Gar_ACNH.png"
+  },
+  {
+    "name": "Arapaima",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "4pm to 9am",
+    "location": "River",
+    "price": "10000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/7d/Arapaima_ACNH.png"
+  },
+  {
+    "name": "Saddled Bichir",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "9pm to 4am",
+    "location": "River",
+    "price": "4000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/5e/Saddled_Bichir_ACNH.png"
+  },
+  {
+    "name": "Sturgeon",
+    "monthsAvailable": "September to March",
+    "timesAvailable": "24 hours",
+    "location": "River (Mouth)",
+    "price": "10000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/ea/Sturgeon_ACNH.png"
+  },
+  {
+    "name": "Sea Butterfly",
+    "monthsAvailable": "December to March",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "1000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/1/16/Sea_Butterfly_ACNH.png"
+  },
+  {
+    "name": "Seahorse",
+    "monthsAvailable": "April to November",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "1100",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e9/Seahorse_ACNH.png"
+  },
+  {
+    "name": "Clownfish",
+    "monthsAvailable": "April to September",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "650",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/f/f0/Clownfish_ACNH.png"
+  },
+  {
+    "name": "Surgeonfish",
+    "monthsAvailable": "April to September",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "1000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/2/2b/Surgeonfish_ACNH.png"
+  },
+  {
+    "name": "Butterfly Fish",
+    "monthsAvailable": "April to September",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "1000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/5f/Butterfly_Fish_ACNH.png"
+  },
+  {
+    "name": "Napoelonfish",
+    "monthsAvailable": "July to August",
+    "timesAvailable": "4am to 9pm",
+    "location": "Sea",
+    "price": "10000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/ea/Napoleonfish_ACNH.png"
+  },
+  {
+    "name": "Zebra Turkeyfish",
+    "monthsAvailable": "April to November",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/ea/Zebra_Turkeyfish_ACNH.png"
+  },
+  {
+    "name": "Blowfish",
+    "monthsAvailable": "November to February",
+    "timesAvailable": "9pm to 4am",
+    "location": "Sea",
+    "price": "5000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/b/b8/Blowfish_ACNH.png"
+  },
+  {
+    "name": "Puffer Fish",
+    "monthsAvailable": "July to September",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "250",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/7c/Puffer_Fish_ACNH.png"
+  },
+  {
+    "name": "Anchovy",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "4am to 9pm",
+    "location": "Sea",
+    "price": "200",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/b/b8/Anchovy_ACNH.png"
+  },
+  {
+    "name": "Horse Mackerel",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "150",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/d/d9/Horse_Mackerel_ACNH.png"
+  },
+  {
+    "name": "Barred Knifejaw",
+    "monthsAvailable": "March to November",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "5000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/58/Barred_Knifejaw_ACNH.png"
+  },
+  {
+    "name": "Sea Bass",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "400",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/e/e7/Sea_Bass_ACNH.png"
+  },
+  {
+    "name": "Red Snapper",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "3000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/5/54/Red_Snapper_ACNH.png"
+  },
+  {
+    "name": "Dab",
+    "monthsAvailable": "October to April",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "300",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/4e/Dab_ACNH.png"
+  },
+  {
+    "name": "Olive flounder",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "800",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/c/cd/Olive_Flounder_ACNH.png"
+  },
+  {
+    "name": "Squid",
+    "monthsAvailable": "December to August",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/32/Squid_ACNH.png"
+  },
+  {
+    "name": "Moray Eel",
+    "monthsAvailable": "August to October",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "2000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/31/Moray_Eel_ACNH.png"
+  },
+  {
+    "name": "Ribbon Eel",
+    "monthsAvailable": "June to October",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "600",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/34/Ribbon_Eel_ACNH.png"
+  },
+  {
+    "name": "Tuna ",
+    "monthsAvailable": "November to April",
+    "timesAvailable": "24 hours",
+    "location": "Pier",
+    "price": "7000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/3/3e/Tuna_ACNH.png"
+  },
+  {
+    "name": "Blue Marlin",
+    "monthsAvailable": "November to AprilJuly to September",
+    "timesAvailable": "24 hours",
+    "location": "Pier",
+    "price": "10000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/6/63/Blue_Marlin_ACNH.png"
+  },
+  {
+    "name": "Giant Trevally",
+    "monthsAvailable": "May to October",
+    "timesAvailable": "24 hours",
+    "location": "Pier",
+    "price": "4500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/71/Giant_Trevally_ACNH.png"
+  },
+  {
+    "name": "Mahi-Mahi",
+    "monthsAvailable": "May to October",
+    "timesAvailable": "24 hours",
+    "location": "Pier",
+    "price": "6000"
+  },
+  {
+    "name": "Ocean Sunfish",
+    "monthsAvailable": "July to September",
+    "timesAvailable": "4am to 9pm",
+    "location": "Sea",
+    "price": "4000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/0/04/Ocean_Sunfish_ACNH.png"
+  },
+  {
+    "name": "Ray",
+    "monthsAvailable": "August to November",
+    "timesAvailable": "4am to 9pm",
+    "location": "Sea",
+    "price": "3000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/48/Ray_ACNH.png"
+  },
+  {
+    "name": "Saw Shark",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "4pm to 9am",
+    "location": "Sea",
+    "price": "12000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/7/7b/Saw_Shark_ACNH.png"
+  },
+  {
+    "name": "Hammerhead Shark",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "4pm to 9am",
+    "location": "Sea",
+    "price": "8000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/4c/Hammerhead_Shark_ACNH.png"
+  },
+  {
+    "name": "Great White Shark",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "4pm to 9am",
+    "location": "Sea",
+    "price": "15000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/9/90/Great_White_Shark_ACNH.png"
+  },
+  {
+    "name": "Whale Shark",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "13000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/a/af/Whale_Shark_ACNH.png"
+  },
+  {
+    "name": "Suckerfish",
+    "monthsAvailable": "June to September",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "1500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/1/1a/Suckerfish_ACNH.png"
+  },
+  {
+    "name": "Football Fish",
+    "monthsAvailable": "November to March",
+    "timesAvailable": "4pm to 9am",
+    "location": "Sea",
+    "price": "2500",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/9/9b/Football_Fish_ACNH.png"
+  },
+  {
+    "name": "Oarfish",
+    "monthsAvailable": "December to May",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "9000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/1/15/Oarfish_ACNH.png"
+  },
+  {
+    "name": "Barreleye",
+    "monthsAvailable": "All year round",
+    "timesAvailable": "9pm to 4am",
+    "location": "Sea",
+    "price": "15000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/4/4a/Barreleye_ACNH.png"
+  },
+  {
+    "name": "Coelacanth",
+    "monthsAvailable": "All year round (must be raining)",
+    "timesAvailable": "24 hours",
+    "location": "Sea",
+    "price": "15000",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/animal-crossing-new-horizons/c/c2/Coelacanth_ACNH.png"
+  }
+]

@@ -1,0 +1,58 @@
+.critter-card {
+  background-color: $ac-green;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 1rem 1.5rem;
+}
+
+.critter-card-header {
+  display: flex;
+    .critter-card-image { 
+      flex: 1;
+      display: flex;
+      justify-content: center; 
+      img {
+        height: 100%;
+        width: auto;
+      }
+    }
+    .critter-card-header-content { 
+      flex: 5 
+    }
+}
+
+.critter-card-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0.1rem;
+  font-size: 0.9rem;
+  button {
+    cursor: pointer;
+    background: none;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Noto Sans JP', sans-serif;
+    transition: all 0.2s ease;
+    &:hover {
+      background-color: $ac-green-darker;
+    }
+  }
+}
+
+.critter-card-footer {
+  p {
+    font-size: 0.6rem;
+    margin: 0;
+    text-align: center;
+  }
+  .critter-card-footer-content {
+    padding: 0.5rem;
+    font-size: 0.6rem;
+    transition: all 1s ease-in;
+  }
+}
+
+.hidden {
+  display: none;
+}

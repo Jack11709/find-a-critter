@@ -1,0 +1,34 @@
+//  Fonts
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+// Variables
+
+$ac-blue: #B8DCE9;
+$ac-green: #93E9BE;
+$ac-green-darker: #4be196;
+$ac-cream: #f5fffa;
+
+// Bulma columns + containers
+
+@import '~bulma/sass/utilities/_all.sass';
+@import '~bulma/sass/elements/container.sass';
+@import '~bulma/sass/grid/columns.sass';
+
+// Little overrides for bulma column padding and body styles
+
+body {
+  background-color: $ac-cream;
+  font-family: 'Noto Sans JP', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+div.column {
+  padding: 0;
+}
+
+// Component imports 
+
+@import 'header';
+@import 'search';
+@import 'critter';

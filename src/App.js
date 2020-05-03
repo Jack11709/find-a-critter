@@ -1,26 +1,47 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import critters from './data/data.json'
+
+import Header from './components/Header'
+import Search from './components/Search'
+import CritterList from './components/CritterList'
 
 function App() {
+  const [searchTerm, setSearchTerm] = React.useState('')
+  const [bagOpen, setBagOpen] = React.useState(false)
+  
+  const filterArr = (arr, term) => {
+    const re = new RegExp(term, 'i')
+    return arr.filter(c => re.test(c.name))
+  }
+
+  const handleChange = ({ target: { value } }) => {
+    setSearchTerm(value)
+  }
+
+  const handleOpenBag = () => {
+    setBagOpen(!bagOpen)
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <Header handleOpenBag={handleOpenBag} bagOpen={bagOpen} />
+      {bagOpen ? (
+        <div>
+          Bag View
+        </div>
+      ) : (
+        <>
+          <Search
+            handleChange={handleChange}
+            searchTerm={searchTerm}
+          />
+          <CritterList
+            critters={filterArr(critters, searchTerm)}
+          />
+        </>
+      )}
+    </>
+  )
 }
 
-export default App;
+export default App

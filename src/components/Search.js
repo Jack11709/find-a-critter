@@ -1,6 +1,13 @@
 import React from 'react'
+import CritterContext from '../utils/CritterContext'
 
-function Search({ handleChange, searchTerm }) {
+function Search() {
+  const [searchTerm, setSearchTerm] = React.useContext(CritterContext)
+
+  const handleChange = ({ target: { value } }) => {
+    setSearchTerm(value)
+  }
+
   return (
     <div className="search-container">
       <input

@@ -1,8 +1,14 @@
 import React from 'react'
-
+import BagContext from '../utils/BagContext'
 import Logo from './Logo'
 
-function Header({ handleOpenBag, bagOpen }) {
+function Header() {
+  const [{ bagOpen }, dispatch ] = React.useContext(BagContext)
+
+  const handleOpenBag = () => {
+    dispatch({ type: 'TOGGLE_BAG' })
+  }
+
   return (
     <header className="header">
       <Logo size={30} />

@@ -1,19 +1,20 @@
 import React from 'react'
-import BagContext from '../utils/BagContext'
+import useBag from '../utils/useBag'
 import Logo from './Logo'
 
 function Header() {
-  const [{ bagOpen }, dispatch ] = React.useContext(BagContext)
-
-  const handleOpenBag = () => {
-    dispatch({ type: 'TOGGLE_BAG' })
-  }
+  const { bagOpen, handleOpenBag, bagContents } = useBag()
 
   return (
     <header className="header">
       <Logo size={30} />
       <h1>Find a Critter</h1>
-      <div onClick={handleOpenBag}>{bagOpen ? 'Back' : 'Bag' }</div>
+      <div
+        className="bag"
+        onClick={handleOpenBag}>
+        {bagOpen ? 'Back' : 'Bag' }
+        <span className="bag-icon">{bagContents.length}</span>
+      </div>
     </header>
   )
 }

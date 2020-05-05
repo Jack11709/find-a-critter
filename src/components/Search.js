@@ -1,17 +1,13 @@
 import React from 'react'
-import CritterContext from '../utils/CritterContext'
+import useCritters from '../utils/useCritters'
 
 function Search() {
-  const [searchTerm, setSearchTerm] = React.useContext(CritterContext)
-
-  const handleChange = ({ target: { value } }) => {
-    setSearchTerm(value)
-  }
+  const { searchTerm, setSearchTerm } = useCritters()
 
   return (
     <div className="search-container">
       <input
-        onChange={handleChange}
+        onChange={setSearchTerm}
         value={searchTerm}
         placeholder="Search for a Critter"
       />

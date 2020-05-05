@@ -1,10 +1,21 @@
 import React from 'react'
+import useBag from '../utils/useBag'
 
 function Critter({ name, price, image, monthsAvailable }) {
+  
   const [isCollapsed, setIsCollapsed] = React.useState(true)
+  const { addToBag, isInBag, removeFromBag } = useBag()
 
   const handleClick = () => {
     setIsCollapsed(!isCollapsed)
+  }
+
+  const handleAdd = () => {
+    addToBag({ name, price })
+  }
+
+  const handleRemove = () => {
+    removeFromBag(name)
   }
 
   return (
@@ -22,9 +33,15 @@ function Critter({ name, price, image, monthsAvailable }) {
           <div>
             Price: ${price}
           </div>
-          <button>
-            Add to Bag
-          </button>
+          {isInBag(name) ? 
+            <button onClick={handleRemove}>
+              Remove
+            </button>
+            :
+            <button onClick={handleAdd}>
+              Add to Bag
+            </button>
+          }
         </div>
         <div className="critter-card-footer">
           <p onClick={handleClick}>{isCollapsed ? 'See More' : 'Hide'}</p>

@@ -1,15 +1,14 @@
 import React from 'react'
-// import useBag from '../utils/useBag'
+import useBag from '../utils/useBag'
 
 function Bag() {
-  // const { bagContents } = useBag()
+  const { bagContents } = useBag()
 
   return (
-    <div>
-      {/* {bagContents.map(item => {
-
-      })} */}
-      Bag View
+    <div className="section">
+      {bagContents.map(item => {
+        return <p key={item.name}>{item.name} {item.price}</p>
+      })}
     </div>
   )
 }

@@ -1,5 +1,5 @@
 export const initialBagState = {
-  bagOpen: false,
+  bagOpen: true,
   bagContents: []
 }
 

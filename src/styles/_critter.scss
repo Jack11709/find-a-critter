@@ -7,9 +7,13 @@
 
 .critter-card-header {
   display: flex;
+  margin-bottom: 1rem;
     .critter-card-image { 
       flex: 1;
       display: flex;
+      background-color: $ac-blue;
+      border-radius: 50%;
+      border: 2px solid $ac-green-darker;
       justify-content: center; 
       img {
         height: 100%;

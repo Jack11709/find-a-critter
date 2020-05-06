@@ -1,7 +1,7 @@
 import React from 'react'
 import useBag from '../utils/useBag'
 
-function Critter({ name, price, image, monthsAvailable }) {
+function Critter({ name, price, image, ...rest }) {
   
   const [isCollapsed, setIsCollapsed] = React.useState(true)
   const { addToBag, isInBag, removeFromBag } = useBag()
@@ -46,7 +46,9 @@ function Critter({ name, price, image, monthsAvailable }) {
         <div className="critter-card-footer">
           <p onClick={handleClick}>{isCollapsed ? 'See More' : 'Hide'}</p>
           <div className={`critter-card-footer-content ${isCollapsed ? 'hidden' : '' }`}>
-            Months Available: {monthsAvailable}
+            <p>Location: {rest.location}</p>
+            <p>Months Available: {rest.monthsAvailable}</p>
+            <p>Times Available: {rest.monthsAvailable}</p>
           </div>  
         </div>
       </div>

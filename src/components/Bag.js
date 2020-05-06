@@ -1,9 +1,14 @@
 import React from 'react'
+import useBag from '../utils/useBag'
 
 function Bag() {
+  const { bagContents } = useBag()
+
   return (
     <div>
-      Bag View
+      {bagContents.map(item => {
+
+      })}
     </div>
   )
 }

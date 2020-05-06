@@ -34,7 +34,7 @@ function Critter({ name, price, image, monthsAvailable }) {
             Price: ${price}
           </div>
           {isInBag(name) ? 
-            <button onClick={handleRemove}>
+            <button className="remove" onClick={handleRemove}>
               Remove
             </button>
             :

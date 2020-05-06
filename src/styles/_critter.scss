@@ -28,13 +28,15 @@
   font-size: 0.9rem;
   button {
     cursor: pointer;
+    width: 85px;
     background: none;
     padding: 0.5rem;
+    outline: none;
     border: none;
     border-radius: 5px;
     font-family: 'Noto Sans JP', sans-serif;
     transition: all 0.2s ease;
-    &:hover {
+    &:hover, &.remove {
       background-color: $ac-green-darker;
     }
   }

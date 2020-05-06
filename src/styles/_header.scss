@@ -14,18 +14,22 @@
 .bag {
   position: relative;
   .bag-icon {
-    font-size: 0.2rem;
-    top: -10px;
-    left: 25px;
+    font-size: 1rem;
+    top: -15px;
+    left: 15px;
     color: $ac-cream;
     font-weight: bold;
     background-color: $ac-blue;
     border-radius: 50%;
-    height: 0.7rem;
-    width: 0.7rem;
+    height: 1.2rem;
+    width: 1.2rem;
     display: flex;
     justify-content: center;
     align-items: center;
     position: absolute;
+    p {
+      padding: 0.2rem;
+      margin: 0;
+    }
   }
 }

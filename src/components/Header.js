@@ -13,7 +13,7 @@ function Header() {
         className="bag"
         onClick={handleOpenBag}>
         {bagOpen ? 'Back' : 'Bag' }
-        <span className="bag-icon">{bagContents.length}</span>
+        {bagContents.length > 0 && <span className="bag-icon"><p>{bagContents.length}</p></span>}
       </div>
     </header>
   )

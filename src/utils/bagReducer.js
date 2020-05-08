@@ -25,6 +25,31 @@ function bagReducer(state, action) {
         ...state,
         bagContents: action.payload
       }
+    case 'EMPTY_BAG':
+      return {
+        ...state,
+        bagContents: []
+      }
+    case 'INCREASE_QUANTITY':
+      return {
+        ...state,
+        bagContents: state.bagContents.map(item => {
+          if (item.name === action.payload) {
+            return { ...item, quantity: item.quantity + 1 }
+          }
+          return item
+        })
+      }
+    case 'DECREASE_QUANTITY':
+      return {
+        ...state,
+        bagContents: state.bagContents.map(item => {
+          if (item.name === action.payload) {
+            return { ...item, quantity: item.quantity - 1 }
+          }
+          return item
+        })
+      }
     default:
       return state
   }

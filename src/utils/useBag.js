@@ -20,13 +20,28 @@ function useBag() {
     dispatch({ type: 'REMOVE_FROM_BAG', payload: name })
   }
 
+  const emptyBag = () => {
+    dispatch({ type: 'EMPTY_BAG' })
+  }
+
+  const increaseQuantity = name => {
+    dispatch({ type: 'INCREASE_QUANTITY', payload: name })
+  }
+
+  const decreaseQuantity = name => {
+    dispatch({ type: 'DECREASE_QUANTITY', payload: name })
+  }
+
   return {
     bagOpen: state.bagOpen,
     handleOpenBag,
     bagContents: state.bagContents,
     addToBag,
     isInBag,
-    removeFromBag
+    removeFromBag,
+    emptyBag,
+    increaseQuantity,
+    decreaseQuantity
   }
 }
 

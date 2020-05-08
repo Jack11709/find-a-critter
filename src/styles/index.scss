@@ -4,6 +4,7 @@
 // Variables
 
 $ac-blue: #B8DCE9;
+$ac-blue-darker : #47a1d2;
 $ac-green: #93E9BE;
 $ac-green-darker: #4be196;
 $ac-cream: #f5fffa;
@@ -27,8 +28,21 @@ div.column {
   padding: 0;
 }
 
+div.main-container {
+  display: flex;
+  padding: 0 1rem;
+  .container {
+    flex: 1;
+  }
+  .bag-container {
+    flex: 1;
+    // margin-right: 1rem;
+  }
+}
+
 // Component imports 
 
 @import 'header';
 @import 'search';
 @import 'critter';
+@import 'bag';

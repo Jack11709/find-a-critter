@@ -8,8 +8,8 @@
     font-size: 1.5rem;
   }
   .bag-button {
-    width: 50px;
-    text-align: right;
+    // width: 40px;
+    text-align: center;
   }
 }
 
@@ -19,8 +19,8 @@
   position: relative;
   .bag-icon {
     font-size: 1rem;
-    top: -15px;
-    left: 15px;
+    top: -2px;
+    left: 20px;
     color: $ac-cream;
     font-weight: bold;
     background-color: $ac-blue;

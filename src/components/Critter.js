@@ -1,7 +1,7 @@
 import React from 'react'
 import useBag from '../utils/useBag'
 
-function Critter({ name, price, image, ...rest }) {
+function Critter({ name, price, image, isMobile, ...rest }) {
   
   const [isCollapsed, setIsCollapsed] = React.useState(true)
   const { addToBag, isInBag, removeFromBag } = useBag()
@@ -11,7 +11,7 @@ function Critter({ name, price, image, ...rest }) {
   }
 
   const handleAdd = () => {
-    addToBag({ name, price })
+    addToBag({ name, price, quantity: 1  })
   }
 
   const handleRemove = () => {
@@ -19,7 +19,7 @@ function Critter({ name, price, image, ...rest }) {
   }
 
   return (
-    <div className="column is-fullwidth-mobile is-half-tablet is-one-third-desktop">
+    <div className="column is-12">
       <div className="critter-card">
         <div className="critter-card-header">
           <div className="critter-card-header-content">
@@ -44,8 +44,8 @@ function Critter({ name, price, image, ...rest }) {
           }
         </div>
         <div className="critter-card-footer">
-          <p onClick={handleClick}>{isCollapsed ? 'See More' : 'Hide'}</p>
-          <div className={`critter-card-footer-content ${isCollapsed ? 'hidden' : '' }`}>
+          {isMobile && <p onClick={handleClick}>{isCollapsed ? 'See More' : 'Hide'}</p>}
+          <div className={`critter-card-footer-content ${(isCollapsed && isMobile) ? 'hidden' : '' }`}>
             <p>Location: {rest.location}</p>
             <p>Months Available: {rest.monthsAvailable}</p>
             <p>Times Available: {rest.monthsAvailable}</p>

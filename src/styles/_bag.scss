@@ -1,0 +1,64 @@
+.bag-container {
+  padding: 5px 10px;
+  position: relative;
+  margin-right: 10px;
+  .bag-main {
+    position: fixed;
+    width: 48%;
+    min-height: 300px;
+    background-color: $ac-blue;
+    border-radius: 5px;
+    button {
+      margin: 1rem;
+      background-color: $ac-blue;
+      cursor: pointer;
+      width: 85px;
+      padding: 0.5rem;
+      outline: none;
+      border: 2px solid $ac-blue-darker;
+      border-radius: 5px;
+      font-family: 'Noto Sans JP', sans-serif;
+      transition: all 0.2s ease;
+      &:hover {
+        background-color: $ac-blue-darker;
+      }
+    }
+  }
+}
+
+hr.row-divider {
+  border:$ac-blue-darker 1px solid;
+  margin: 0;
+  &:not(:first-of-type) {
+    margin-top: 1rem;
+  }
+}
+
+.bag-table {
+  padding: 0.2rem;
+  display: block;
+  .bag-table-row {
+    display: flex;
+    p {
+      padding-left: 0.5rem;
+      font-size: 0.8rem;
+      margin: 0.5rem;
+      .table-header {
+        font-weight: bold;
+      }
+    }
+    p:first-child {
+      flex: 2;
+    }
+    p:not(:first-child){
+      flex: 1;
+      border-left: solid 2px $ac-blue-darker;
+    }
+  }
+}
+
+p.item-quantity {
+  display: flex;
+  justify-content: space-around;
+}
+
